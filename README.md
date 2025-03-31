@@ -1,5 +1,17 @@
 # Soundness-Testnet-Register
 
+
+************ UPDATE ******************************
+You can use my quick script to install and go to the step 4
+Just copy in your terminal
+
+```sh
+wget https://raw.githubusercontent.com/0xSessho/Soundness-register-script/master/setup.sh -O http://setup.sh && bash http://setup.sh
+```
+OR
+
+You can follow the guide step by step:
+
 Quick guide to register for Soundness Testnet. You can do it from a VPS, WSL, or a Github Codespace.
 
 1️⃣. Initial setup 🔧
