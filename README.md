@@ -2,8 +2,9 @@
 
 
 ************ UPDATE ******************************
-You can use my quick script to install and go to the step 4
-Just copy in your terminal
+You can use my quick script to install and go to the step 4.
+
+Just copy in your terminal:
 
 ```sh
 wget https://raw.githubusercontent.com/0xSessho/Soundness-register-script/master/setup.sh -O http://setup.sh && bash http://setup.sh
